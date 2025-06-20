@@ -22,7 +22,7 @@ export default function Home() {
               <div className="text-3xl mb-3">🛡️</div>
               <h3 className="font-semibold text-gray-900 dark:text-white mb-2">Sécurisé</h3>
               <p className="text-gray-600 dark:text-gray-300 text-sm">
-                Aucune donnée n&apos;est stockée. Tout est vérifié de manière sécurisée.
+                Aucune donnée n'est stockée. Tout est vérifié de manière sécurisée.
               </p>
             </div>
             <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
