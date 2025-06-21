@@ -1,0 +1,68 @@
+{
+  "app": {
+    "title": "Personal Data Breach Checker",
+    "description": "Verifique se seus endereços de email foram comprometidos em vazamentos de dados conhecidos. Proteja sua identidade digital com conselhos personalizados.",
+    "shortDescription": "Ferramenta segura de verificação de vazamentos de email"
+  },
+  "navigation": {
+    "home": "Início",
+    "about": "Sobre",
+    "privacy": "Privacidade"
+  },
+  "hero": {
+    "title": "🔍 Personal Data Breach Checker",
+    "subtitle": "Verifique se seus emails foram comprometidos em vazamentos de dados conhecidos. Proteja sua identidade digital com conselhos personalizados."
+  },
+  "features": {
+    "secure": {
+      "title": "Seguro",
+      "description": "Nenhum dado é armazenado. Tudo é verificado de forma segura."
+    },
+    "fast": {
+      "title": "Rápido",
+      "description": "Verificação instantânea com as bases de dados mais recentes."
+    },
+    "advice": {
+      "title": "Conselhos",
+      "description": "Receba recomendações personalizadas para sua segurança."
+    }
+  },
+  "checker": {
+    "placeholder": "Digite seu endereço de email...",
+    "button": "Verificar vazamentos de dados",
+    "loading": "Verificando...",
+    "buttonIcon": "🛡️"
+  },
+  "results": {
+    "noBreaches": {
+      "title": "Nenhum vazamento detectado! 🎉",
+      "description": "Seu endereço de email não aparece em nenhum vazamento de dados conhecido.",
+      "adviceTitle": "Dicas para se manter protegido:",
+      "advice": [
+        "Use senhas únicas e complexas",
+        "Ative a autenticação de dois fatores",
+        "Verifique suas contas regularmente",
+        "Cuidado com emails de phishing"
+      ]
+    },
+    "breachesFound": {
+      "title": "{count} vazamento(s) detectado(s)",
+      "description": "Seu email foi encontrado nos seguintes vazamentos:",
+      "date": "Data:",
+      "affectedAccounts": "Contas afetadas:",
+      "compromisedData": "Dados comprometidos:",
+      "recommendationsTitle": "🔒 Ações Recomendadas",
+      "recommendations": [
+        "Altere imediatamente suas senhas em todos os sites afetados",
+        "Ative a autenticação de dois fatores sempre que possível",
+        "Monitore suas contas bancárias e extratos de cartão de crédito",
+        "Cuidado com tentativas de phishing direcionadas"
+      ]
+    }
+  },
+  "errors": {
+    "connection": "Erro de conexão com o serviço",
+    "invalidEmail": "Formato de email inválido",
+    "generic": "Ocorreu um erro durante a verificação"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "app": {
+    "title": "Personal Data Breach Checker",
+    "description": "Vérifiez si vos adresses email ont été compromises dans des fuites de données connues. Protégez votre identité numérique avec des conseils personnalisés.",
+    "shortDescription": "Outil de vérification sécurisé des fuites d'emails"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "privacy": "Confidentialité"
+  },
+  "hero": {
+    "title": "🔍 Personal Data Breach Checker",
+    "subtitle": "Vérifiez si vos emails ont été compromis dans des fuites de données connues. Protégez votre identité numérique avec des conseils personnalisés."
+  },
+  "features": {
+    "secure": {
+      "title": "Sécurisé",
+      "description": "Aucune donnée n'est stockée. Tout est vérifié de manière sécurisée."
+    },
+    "fast": {
+      "title": "Rapide",
+      "description": "Vérification instantanée avec les dernières bases de données."
+    },
+    "advice": {
+      "title": "Conseils",
+      "description": "Recevez des recommandations personnalisées pour votre sécurité."
+    }
+  },
+  "checker": {
+    "placeholder": "Entrez votre adresse email...",
+    "button": "Vérifier les fuites de données",
+    "loading": "Vérification en cours...",
+    "buttonIcon": "🛡️"
+  },
+  "results": {
+    "noBreaches": {
+      "title": "Aucune fuite détectée ! 🎉",
+      "description": "Votre adresse email n'apparaît dans aucune fuite de données connue.",
+      "adviceTitle": "Conseils pour rester protégé :",
+      "advice": [
+        "Utilisez des mots de passe uniques et complexes",
+        "Activez l'authentification à deux facteurs",
+        "Vérifiez régulièrement vos comptes",
+        "Méfiez-vous des emails de phishing"
+      ]
+    },
+    "breachesFound": {
+      "title": "{count} fuite(s) détectée(s)",
+      "description": "Votre email a été trouvé dans les fuites suivantes :",
+      "date": "Date :",
+      "affectedAccounts": "Comptes affectés :",
+      "compromisedData": "Données compromises :",
+      "recommendationsTitle": "🔒 Actions recommandées",
+      "recommendations": [
+        "Changez immédiatement vos mots de passe sur tous les sites concernés",
+        "Activez l'authentification à deux facteurs partout où c'est possible",
+        "Surveillez vos comptes bancaires et relevés de carte de crédit",
+        "Méfiez-vous des tentatives de phishing ciblées"
+      ]
+    }
+  },
+  "errors": {
+    "connection": "Erreur de connexion au service",
+    "invalidEmail": "Format d'email invalide",
+    "generic": "Une erreur est survenue lors de la vérification"
+  }
+}

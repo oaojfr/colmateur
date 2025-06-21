@@ -1,0 +1,68 @@
+{
+  "app": {
+    "title": "Personal Data Breach Checker",
+    "description": "Check if your email addresses have been compromised in known data breaches. Protect your digital identity with personalized advice.",
+    "shortDescription": "Secure email breach verification tool"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "privacy": "Privacy"
+  },
+  "hero": {
+    "title": "🔍 Personal Data Breach Checker",
+    "subtitle": "Check if your emails have been compromised in known data breaches. Protect your digital identity with personalized advice."
+  },
+  "features": {
+    "secure": {
+      "title": "Secure",
+      "description": "No data is stored. Everything is verified securely."
+    },
+    "fast": {
+      "title": "Fast",
+      "description": "Instant verification with the latest databases."
+    },
+    "advice": {
+      "title": "Advice",
+      "description": "Get personalized recommendations for your security."
+    }
+  },
+  "checker": {
+    "placeholder": "Enter your email address...",
+    "button": "Check for data breaches",
+    "loading": "Checking...",
+    "buttonIcon": "🛡️"
+  },
+  "results": {
+    "noBreaches": {
+      "title": "No breaches detected! 🎉",
+      "description": "Your email address does not appear in any known data breaches.",
+      "adviceTitle": "Tips to stay protected:",
+      "advice": [
+        "Use unique and complex passwords",
+        "Enable two-factor authentication",
+        "Check your accounts regularly",
+        "Beware of phishing emails"
+      ]
+    },
+    "breachesFound": {
+      "title": "{count} breach(es) detected",
+      "description": "Your email was found in the following breaches:",
+      "date": "Date:",
+      "affectedAccounts": "Affected accounts:",
+      "compromisedData": "Compromised data:",
+      "recommendationsTitle": "🔒 Recommended Actions",
+      "recommendations": [
+        "Immediately change your passwords on all affected sites",
+        "Enable two-factor authentication wherever possible",
+        "Monitor your bank accounts and credit card statements",
+        "Be wary of targeted phishing attempts"
+      ]
+    }
+  },
+  "errors": {
+    "connection": "Connection error to service",
+    "invalidEmail": "Invalid email format",
+    "generic": "An error occurred during verification"
+  }
+}

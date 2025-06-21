@@ -1,6 +1,6 @@
 # 🔍 Personal Data Breach Checker
 
-*[Français](./docs/fr/README.md) | **English** | [Português](./docs/pt/README.md)*
+*[Français](../fr/README.md) | [**English**](./README.md) | [Português](../pt/README.md)*
 
 A modern and secure tool to check if your email addresses have been compromised in known data breaches. Protect your digital identity with personalized advice.
 
@@ -105,7 +105,7 @@ Contributions are welcome! Feel free to:
 4. Push to the branch
 5. Open a Pull Request
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+See [CONTRIBUTING.md](../../CONTRIBUTING.md) for detailed guidelines.
 
 ## 📄 License
 
